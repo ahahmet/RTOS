@@ -1,0 +1,2 @@
+../Core/Src/memory.c:33:6:initialize_pool	4	static
+../Core/Src/memory.c:43:7:kmalloc	48	static

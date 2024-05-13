@@ -1,0 +1,8 @@
+../Core/Src/task.c:23:12:assign_taskID	4	static
+../Core/Src/task.c:28:6:push_stackRegister	16	static
+../Core/Src/task.c:53:15:kernal_enQueue	24	static
+../Core/Src/task.c:66:9:task_createKernel	16	static
+../Core/Src/task.c:93:9:task_createUser	16	static
+../Core/Src/task.c:120:15:task_terminateKernel	24	static
+../Core/Src/task.c:139:6:task_pending	16	static
+../Core/Src/task.c:147:6:scheduler_switchContext	16	static
